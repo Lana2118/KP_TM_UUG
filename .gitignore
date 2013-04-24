@@ -1,0 +1,6 @@
+SW/_IAR/settings/KP_TM_UUG.wsdt
+SW/Bootloader/_IAR/ATmega168P_Debug/*
+SW/Bootloader/_IAR/settings/*
+SW/Bootloader/_IAR/bootloader.dep
+SW/KP_TM_UUG/_IAR/ATmega168P_Debug/*
+SW/KP_TM_UUG/_IAR/settings/*
